@@ -10,6 +10,6 @@ Screenshots:
 ![](Weatherapp-2.png)
 
 To run: 
-*CLone this repo to local system\n
-*Open terminal\n
+*CLone this repo to local system
+*Open terminal
 *Type "npm start" 
